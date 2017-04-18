@@ -43,6 +43,6 @@ node default {
   # Example:
   #   class { 'my_class': }
   include role::classroom
-  notify { ' This is Carthik's branch': }
+  notify { ' This is NPCs branch': }
   
 }
