@@ -1,6 +1,6 @@
 class examples::practitioner {
   File {
-    owner     => 'root',
+    owner      => 'root',
     group  => 'root',
     mode           => '0644',
   }
